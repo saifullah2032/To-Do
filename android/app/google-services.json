@@ -7,6 +7,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:84613588770:android:d22a9035e1e8ee6e6ee77b",
+        "android_client_info": {
+          "package_name": "com.SaifXRayan.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84613588770-tbh78f6rt5ta0v44u7johjpvd62jvnr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SaifXRayan.to_do",
+            "certificate_hash": "5ce6b383b1da71dc22db0c8476a4894753679c2f"
+          }
+        },
+        {
+          "client_id": "84613588770-rmrmbb47tjrhvb73fbqoiboklljt5pmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sZQt98wS1PNiGV_VbbP6PMeOHTOK8aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84613588770-rmrmbb47tjrhvb73fbqoiboklljt5pmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:84613588770:android:31f3e227fa6e87636ee77b",
         "android_client_info": {
           "package_name": "com.example.to_do"
